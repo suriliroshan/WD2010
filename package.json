@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ishikasaraf20/wd2010.git"
+    "url": "git+https://github.com/suriliroshan/WD2010.git"
   },
   "keywords": [],
   "lint-staged": {
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/Ishikasaraf20/wd2010/issues"
   },
-  "homepage": "https://github.com/Ishikasaraf20/wd2010#readme",
+  "homepage": "https://github.com/suriliroshan/WD2010#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-ensure-login": "^0.1.1",
